@@ -13,6 +13,7 @@ For purposes of this analysis the training and testing data were merged together
 For selecting columns it was assumed that the means were in columns with the name containing "mean()" and standard deviations were in columns with the name containing "std()".
 The names of the activities and the id of the volunteer were merged back into the data.
 
+
 For each record
 Group.1 is the activity
 Group.2 is a numeric identifier of the individual.
